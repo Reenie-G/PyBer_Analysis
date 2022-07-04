@@ -21,7 +21,7 @@ ride-sharing data by city the different city types, rural, suburban, and urban. 
 
 ## Summary 
 
-![Pyber_fare_summary](analysis/Pyber_fare_summary)
+![PyBer_fare_summary](analysis/Pyber_fare_summary.png)
 
    After reviewing the Pyber summary DataFrame and the Pyber__fare_Summary chart, there is potential for 	increasing revenue in several areas for each city.
 
